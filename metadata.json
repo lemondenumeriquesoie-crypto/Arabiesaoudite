@@ -1,0 +1,6 @@
+{
+  "name": "Arabia & Dubai — Giant Map & 3D Open-World Command",
+  "description": "Photorealistic 3D Giant Map and playable open-world spatial architecture covering the complete Kingdom of Saudi Arabia (World 1), independent Dubai territory (World 2), and true-scale Day 1 Central Riyadh production cells.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
